@@ -1,0 +1,11 @@
+# Ignore compiled files
+
+**/prog
+*.out
+*.o
+
+# Ignore attr files
+
+**/*.attr
+
+exercicios/

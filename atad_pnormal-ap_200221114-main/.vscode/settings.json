@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "listelem.h": "c",
+        "sstream": "c",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "algorithm": "c",
+        "typeinfo": "cpp",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
